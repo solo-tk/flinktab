@@ -36,10 +36,15 @@ Whether you’re a digital artist, designer, student, or hobbyist, FlinkTab give
 
 ## 📸 Screenshots  
 
-![FlinkTab_1](https://github.com/user-attachments/assets/dda8c8a7-7299-445e-a521-8e9e45783f7e)
-![FlinkTab_2](https://github.com/user-attachments/assets/5d80822a-bd30-44fa-9399-d208833fcc3b)
-![FlinkTab_3](https://github.com/user-attachments/assets/4f8fcf01-9b75-4f34-97a3-6dc76ac1389f)
-![FlinkTab_4](https://github.com/user-attachments/assets/c1551b35-c71f-4864-bc15-aa3e073f53ee)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dda8c8a7-7299-445e-a521-8e9e45783f7e" width="265" />
+  <img src="https://github.com/user-attachments/assets/5d80822a-bd30-44fa-9399-d208833fcc3b" width="265" />
+  <img src="https://github.com/user-attachments/assets/4f8fcf01-9b75-4f34-97a3-6dc76ac1389f" width="265" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1551b35-c71f-4864-bc15-aa3e073f53ee" width="800" />
+</p>
 
 ---
 
